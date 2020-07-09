@@ -1,3 +1,3 @@
 # IFE
 <hr>
-##This repository stores [IFE](https://ife.baidu.com/) operations.
+##This repository stores <a href="http://ife.baidu.com/">IFE</a> operations.
